@@ -1,0 +1,121 @@
+img{
+    width: 350px;
+    height: 250px;
+    margin: 22px;
+    border-radius: 20px;
+   
+}
+body{
+    background-image: url(img/e5.webp);
+    background-size: 100% 100%;
+    font-family: cursive;
+    font-size: 30px;
+    background-attachment: fixed;
+    
+}
+.calosc
+{
+    width: 100%;
+    height: auto;
+}
+.div2{
+    width: 100%;
+    height: 160px;
+   
+  
+   
+  
+}
+
+
+.div3
+{
+    width: 80%;
+    height: auto;
+    background: rgba(4, 37, 87, 0.6);
+    color: white;
+    text-align: lef;
+    margin-left: 10%;
+    border-radius: 20px;
+    text-align: justify;
+}
+.div4
+{
+    width: 100%;
+    height: 300px;
+    background-color: none; 
+    color: white;
+}
+.div5
+{
+    width: 80%;
+    height: auto;
+    background: rgba(4, 37, 87, 0.6);
+    color:white;
+    margin-left: 10%;
+    border-radius: 20px;
+    text-align: justify;
+}
+.div6
+{
+    width: 100%;
+    height: 300px;
+    background-color: none; 
+    color: white;
+}
+.div7
+{
+    width: 80%;
+    height: auto;
+    background: rgba(4, 37, 87, 0.6);
+    color:white;
+    margin-left: 10%;
+    border-radius: 20px;
+    text-align: justify;
+}
+.div8
+{
+    width: 100%;
+    height: 300px;
+    background-color: none; 
+    color: white;
+}
+.div9
+{
+    width: 80%;
+    height: auto;
+    background: rgba(4, 37, 87, 0.6);
+    color:white;
+    margin-left: 10%;
+    border-radius: 20px;
+    text-align: justify;
+}
+.div10
+{
+    width: 100%;
+    height: 300px;
+    background-color: none; 
+    color: white;
+}
+.div11
+{
+    width: 80%;
+    height: auto;
+    background: rgba(4, 37, 87, 0.6);
+    color:white;
+    margin-left: 10%;
+    border-radius: 20px;
+    text-align: justify;
+}
+a{
+   color: snow;
+    transition-duration: 0.5s;
+}
+a:hover
+{
+    color: blue;
+    
+   
+    transition:  0.5s ease-in-out;
+
+}
